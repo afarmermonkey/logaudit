@@ -1,0 +1,2 @@
+\\192.168.37.130\share\logaudit\src\center\Debug\center.exe
+\\192.168.37.130\share\logaudit\src\center\Debug\center.pdb

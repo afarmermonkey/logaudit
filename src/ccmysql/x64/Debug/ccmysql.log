@@ -1,0 +1,79 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  CCData.cpp
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(32,2): warning C4273: “cc::CCData::CCData”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(96,3): message : 参见“{ctor}”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(38,2): warning C4273: “cc::CCData::CCData”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(95,3): message : 参见“{ctor}”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(42,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(46,2): warning C4273: “cc::CCData::LoadFile”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(100,8): message : 参见“LoadFile”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(56,18): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(68,26): warning C4244: “+=”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(80,2): warning C4273: “cc::CCData::Drop”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(106,8): message : 参见“Drop”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(86,2): warning C4273: “cc::CCData::SaveFile”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(101,8): message : 参见“SaveFile”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(102,2): warning C4273: “cc::CCData::UTF8ToGBK”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(107,15): message : 参见“UTF8ToGBK”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.cpp(139,2): warning C4273: “cc::CCData::GBKToUTF8”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\CCData.h(108,15): message : 参见“GBKToUTF8”的前一个定义
+  ccmysql.cpp
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(9,2): warning C4273: “cc::CCMysql::CCMysql”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(74,3): message : 参见“{ctor}”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(13,2): warning C4273: “cc::CCMysql::~CCMysql”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(75,4): message : 参见“{dtor}”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(16,2): warning C4273: “cc::CCMysql::Init”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(15,8): message : 参见“Init”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(30,2): warning C4273: “cc::CCMysql::Close”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(18,8): message : 参见“Close”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(41,2): warning C4273: “cc::CCMysql::Connect”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(21,8): message : 参见“Connect”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(57,2): warning C4273: “cc::CCMysql::Query”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(24,8): message : 参见“Query”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(71,24): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(87,2): warning C4273: “cc::CCMysql::Options”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(27,8): message : 参见“Options”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(104,2): warning C4273: “cc::CCMysql::SetConnectTionout”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(30,8): message : 参见“SetConnectTionout”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(109,2): warning C4273: “cc::CCMysql::SetReconnect”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(33,8): message : 参见“SetReconnect”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(118,2): warning C4273: “cc::CCMysql::StoreResult”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(38,8): message : 参见“StoreResult”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(134,2): warning C4273: “cc::CCMysql::UseResult”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(39,8): message : 参见“UseResult”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(151,2): warning C4273: “cc::CCMysql::FreeResult”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(42,8): message : 参见“FreeResult”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(160,2): warning C4273: “cc::CCMysql::FetchRow”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(45,23): message : 参见“FetchRow”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(188,2): warning C4273: “cc::CCMysql::GetInsertSql”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(48,15): message : 参见“GetInsertSql”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(239,2): warning C4273: “cc::CCMysql::Insert”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(52,8): message : 参见“Insert”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(251,11): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(258,2): warning C4273: “cc::CCMysql::InsertBin”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(54,8): message : 参见“InsertBin”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(299,6): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(326,2): warning C4273: “cc::CCMysql::GetUpdateSql”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(57,15): message : 参见“GetUpdateSql”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(350,2): warning C4273: “cc::CCMysql::Update”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(59,7): message : 参见“Update”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(358,29): warning C4244: “return”: 从“my_ulonglong”转换到“int”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(362,2): warning C4273: “cc::CCMysql::UpdateBin”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(60,7): message : 参见“UpdateBin”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(399,6): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(422,34): warning C4244: “return”: 从“my_ulonglong”转换到“int”，可能丢失数据
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(427,2): warning C4273: “cc::CCMysql::StartTransaction”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(63,8): message : 参见“StartTransaction”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(431,2): warning C4273: “cc::CCMysql::StopTransaction”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(64,8): message : 参见“StopTransaction”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(435,2): warning C4273: “cc::CCMysql::Commit”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(65,8): message : 参见“Commit”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(439,2): warning C4273: “cc::CCMysql::RollBack”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(66,8): message : 参见“RollBack”的前一个定义
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.cpp(445,2): warning C4273: “cc::CCMysql::GetResult”: dll 链接不一致
+E:\WorkSpace\C++\logaudit\src\ccmysql\ccmysql.h(69,9): message : 参见“GetResult”的前一个定义
+  正在生成代码...
+  LINK : 没有找到 ..\..\bin\ccmysql.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 ..\..\lib\ccmysql.lib 和对象 ..\..\lib\ccmysql.exp
+LINK : warning LNK4217: 符号“??0CCData@cc@@QEAA@PEBD@Z (public: __cdecl cc::CCData::CCData(char const *))”(在“ CCData.obj”中定义)已由“ccmysql.obj”(函数“"public: class std::vector<struct cc::CCData,class std::allocator<struct cc::CCData> > __cdecl cc::CCMysql::FetchRow(void)" (?FetchRow@CCMysql@cc@@QEAA?AV?$vector@UCCData@cc@@V?$allocator@UCCData@cc@@@std@@@std@@XZ)”中)导入
+  ccmysql.vcxproj -> E:\WorkSpace\C++\logaudit\src\ccmysql\..\..\bin\ccmysql.dll

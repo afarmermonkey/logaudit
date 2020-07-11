@@ -1,0 +1,6 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  agent.cpp
+  CAgent.cpp
+  正在生成代码...
+  LINK : 没有找到 ..\..\bin\agent.exe 或上一个增量链接没有生成它；正在执行完全链接
+  agent.vcxproj -> E:\WorkSpace\C++\logaudit\src\agent\..\..\bin\agent.exe

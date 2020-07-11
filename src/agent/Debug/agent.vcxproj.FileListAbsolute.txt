@@ -1,0 +1,2 @@
+\\192.168.37.130\share\logaudit\src\agent\Debug\agent.exe
+\\192.168.37.130\share\logaudit\src\agent\Debug\agent.pdb

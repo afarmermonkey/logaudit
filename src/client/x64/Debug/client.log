@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  CClient.cpp
+  client.cpp
+  正在生成代码...
+  client.vcxproj -> E:\WorkSpace\C++\logaudit\src\client\..\..\bin\client.exe
